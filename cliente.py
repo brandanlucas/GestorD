@@ -76,3 +76,4 @@ class Cliente:
         Devuelve el historial completo de reparaciones del cliente.
         """
         return self.historial_reparaciones
+    
